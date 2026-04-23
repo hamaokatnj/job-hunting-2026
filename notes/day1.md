@@ -1,0 +1,1 @@
+setup folders and add day1 note
